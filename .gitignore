@@ -6,3 +6,7 @@ tags
 # Project Files
 *.vcxproj
 *.vcxproj.filters
+
+## Directories
+bin/
+bin-int/
