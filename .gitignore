@@ -1,3 +1,8 @@
+# Build and Bazel Files
 build/
-/tags
+tags
 /bazel-*
+
+# Project Files
+*.vcxproj
+*.vcxproj.filters
